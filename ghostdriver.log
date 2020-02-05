@@ -1,0 +1,14 @@
+[ERROR - 2020-02-05T07:17:48.089Z] Session [99cc4520-47e7-11ea-96cb-4335e3233dab] - page.onError - msg: ErrorUtils caught an error: "undefined is not a constructor (evaluating 'window.performance.getEntriesByTy...". Subsequent errors won't be logged; see https://fburl.com/debugjs.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-05T07:17:48.089Z] Session [99cc4520-47e7-11ea-96cb-4335e3233dab] - page.onError - stack:
+  b (https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/e_fv63S0ImE.js?_nc_x=Ij3Wp8lg5Kz:46)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-05T07:17:51.725Z] Session [99cc4520-47e7-11ea-96cb-4335e3233dab] - page.onError - msg: ErrorUtils caught an error: "undefined is not a constructor (evaluating 'window.performance.getEntriesByTy...". Subsequent errors won't be logged; see https://fburl.com/debugjs.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-02-05T07:17:51.726Z] Session [99cc4520-47e7-11ea-96cb-4335e3233dab] - page.onError - stack:
+  b (https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/e_fv63S0ImE.js?_nc_x=Ij3Wp8lg5Kz:46)
+
+  phantomjs://platform/console++.js:263 in error
