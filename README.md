@@ -65,3 +65,7 @@ https://google.com|https://naver.com
 #### 잘못된 카테고리를 선택할 경우에는 프로그램에 오류가 발생할 수 있습니다.
 
 ### 이런식으로 작성하시면 됩니다. 반드시 np_form.txt 에 올바른 형식으로 적어주시기 바랍니다.
+
+
+## 프로그램 다운로드
+https://github.com/kdrkdrkdr/Korea-National-Petition/releases
